@@ -41,6 +41,10 @@ require_once './config/constante.php';
                                 <i class="bi-house-fill"></i>
                                 Accueil
                             </a>
+                            <a href="http://localhost/TODOLISTE" aria-selected="true" title="Afficher la page d'accueil" id="nav-home-tab" aria-controls="nav-home" class="nav-link active" role="tab">
+                                <i class="bi-house-fill"></i>
+                                Accueil
+                            </a>
                         </li>
                     </ul>
                 </div>
